@@ -10,10 +10,9 @@ MIMO Linear Time Invariant System Real Time Simulator
 
 ### 2.2 Continuous-time
 
-Continuous-time systems are defined using the numerator and denominator of the transfer functions of $G_1(s)$ and $G_2(s)$. The transfer function can have a maximum order of 4, in the form:
+Continuous-time systems are defined using the numerator and denominator of transfer functions G1 and G2.  The maximum system order is 4. Therefore, order of G1 + order of G2 can have be maximum 4, in the form:
 
 <img src="https://render.githubusercontent.com/render/math?math=G(s) = \frac{b_4s^4+b_3s^3+b_2s^2+b_1s+b_0}{a_4s^4+a_3s^3+a_2s^2+a_1s+a_0}$">
-$$G(s) = \frac{b_4s^4+b_3s^3+b_2s^2+b_1s+b_0}{a_4s^4+a_3s^3+a_2s^2+a_1s+a_0}$$
 
 The numerator and denominator with the numbers separated by space or comma.
 
