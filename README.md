@@ -23,7 +23,7 @@ MIMO Linear Time Invariant System Real Time Simulator
 ### 3.2 Discrete time
 
 
-## 4 Operation
+## 4 System saving to device and verification
 
 
 ## 5 Limitations
