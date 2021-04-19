@@ -24,9 +24,15 @@ Denominator formats to insert in the app:
   * Space separated values:   a4 a3 a2 a1 a0
   * Comma separated values:   a4, a3, a2, a1, a0
 
-Example:  s²+4s+2  results in:
+Example 1: numerator or denominator s²+4s+2:
   * Space separated values:   1 4 2
   * Comma separated values:   1,4, 2
+
+Example 3:  G(s) = 4  (gain, order 0):
+  * Numerator:   4
+  * Denominator:   1
+
+
 
 ### 2.3 Discrete-time
 
