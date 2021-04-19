@@ -1,4 +1,4 @@
-# MIMO-RTS
+# MIMO-RTS - HELP
 MIMO Linear Time Invariant System Real Time Simulator
 
 ## 1 System settings
