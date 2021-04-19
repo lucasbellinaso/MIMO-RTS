@@ -28,7 +28,7 @@ Example 1: numerator or denominator s²+4s+2:
   * Space separated values:   1 4 2
   * Comma separated values:   1,4, 2
 
-Example 3:  G(s) = 4  (gain, order 0):
+Example 2:  G(s) = 4  (gain, order 0):
   * Numerator:   4
   * Denominator:   1
 
