@@ -17,8 +17,8 @@ Continuous-time systems are defined using the numerator and denominator of trans
 The numerator and denominator with the numbers separated by space or comma.
 
 Numerator formats to insert in the app:
-  * Space separated values:  \t b4 b3 b2 b1 b0
-  * Comma separated values: \t  b4, b3, b2 , b1, b0
+  * Space separated values: \\ \\  b4 b3 b2 b1 b0
+  * Comma separated values:  \\ \\ b4, b3, b2 , b1, b0
 
 Denominator formats to insert in the app:
   * Space separated values:   a4 a3 a2 a1 a0
