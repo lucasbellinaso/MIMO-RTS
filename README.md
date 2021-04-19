@@ -3,19 +3,27 @@ MIMO Linear Time Invariant System Real Time Simulator
 
 ## 1 System settings
 
-### 1.1 Transfer Function - Continuous time
+## 2 Transfer Function systems
+
+### 2.1 Topology selection
 
 
-### 1.2 Transfer Function - Discrete time
+### 2.2 Continuous time
 
 
-### 1.3 State Space - Continuous time
+### 2.3 Discrete time
 
 
-### 1.4 State Space - Discrete time
+## 3 State space systems
 
 
-## 2 Operation
+### 3.1 Continuous time
 
 
-## 3 Limitations
+### 3.2 Discrete time
+
+
+## 4 Operation
+
+
+## 5 Limitations
