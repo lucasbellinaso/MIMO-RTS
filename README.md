@@ -16,3 +16,6 @@ MIMO Linear Time Invariant System Real Time Simulator
 
 
 ## 2 Operation
+
+
+## 3 Limitations
