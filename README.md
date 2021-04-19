@@ -1,2 +1,2 @@
 # MIMO-RTS
-MIMO System Real Time Simulator
+MIMO Linear Time Invariant System Real Time Simulator
